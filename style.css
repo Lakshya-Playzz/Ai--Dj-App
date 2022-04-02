@@ -1,0 +1,44 @@
+.heading1{
+width: 100%;
+font-size: 25px;
+margin: 0px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-size: cover;
+}
+.disk_img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%  ;
+}
+#speed , #volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+#play_btn{
+    font-size: 30px;
+    width: 150px;
+}
+.copright_footer{
+  width: 100%;
+  background-color: gray;
+  color: white;
+  bottom: 0;
+  position: fixed; 
+  text-align: center; 
+  line-height: 3;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+}
